@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     background-color: black;
     margin-top: 75px;
+    color : white;
 }
 
 .center {
@@ -16,7 +17,4 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
-    height: 200px;
-}
 
